@@ -1,0 +1,8 @@
+.root {
+  display: flex;
+  flex-direction: column;
+}
+
+.review {
+  margin: 10px 10px 10px 20px;
+}
